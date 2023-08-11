@@ -21,7 +21,7 @@
     <configuration>
      <archive>
       <manifest>
-       <mainClass>Demo2.Hello</mainClass>
+       <mainClass>hello.Hello</mainClass>
       </manifest>
      </archive>
     </configuration>
